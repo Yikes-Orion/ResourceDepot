@@ -57,11 +57,3 @@ Thank you for considering contributing to the Cybersecurity Essentials project! 
 ## Code of Conduct  
 
 Please note that we expect all contributors to adhere to our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct#enforcement). Be kind, inclusive, and considerate in all communications.
-
-### Questions?  
-
-If you have any questions or need help, feel free to open an issue, and we’ll be happy to assist you!
-
-
-Thank you for contributing to __Cybersecurity Essentials__ !   
-Together, we can create an invaluable resource for the cybersecurity community.
